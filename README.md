@@ -44,22 +44,22 @@ Berikut tampilan container setelah menjalankan:
 ## 👥 4. Web Teman (Hasil Pull Image)
 
 ### 🔐 Halaman Login
-![Login Teman](link-gambar-login-teman)
+![Login Teman](loginTeman.png)
 
 ---
 
 ### 🏠 Halaman Home
-![Home Teman](link-gambar-home-teman)
+![Home Teman](homeTeman.png)
 
 ---
 
 ### 📝 Halaman Form
-![Form Teman](link-gambar-form-teman)
+![Form Teman](formTeman.png)
 
 ---
 
 ### 📊 Home Setelah Input Data
-![Home Input Teman](link-gambar-home-input-teman)
+![Home Input Teman](homesetelahinputteman.png)
 
 ---
 
