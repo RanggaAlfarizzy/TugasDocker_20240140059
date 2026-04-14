@@ -14,7 +14,7 @@ Berikut tampilan container setelah menjalankan:
 - Container project sendiri
 - Container dari image teman
 
-![Docker Containers](<img width="1920" height="1080" alt="ContainerDockerTeman" src="https://github.com/user-attachments/assets/ad964a0c-6a06-4b3c-86b7-2acc9d0f390f" />
+![Docker Containers](ContainerDockerTeman.png)
 )
 
 ---
