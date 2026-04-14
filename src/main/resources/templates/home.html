@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>MY Website 20240140059</h2>
+    <p>Nama: Rangga Alfarizzy</p>
+
+    <a href="/form">+ Input Data Mahasiswa</a>
+
+    <h3>Data Mahasiswa</h3>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Nama</th>
+            <th>NIM</th>
+            <th>Jenis Kelamin</th>
+        </tr>
+
+        <tr th:each="m, i : ${list}">
+            <td th:text="${i.index + 1}"></td>
+            <td th:text="${m.nama}"></td>
+            <td th:text="${m.nim}"></td>
+            <td th:text="${m.jenisKelamin}"></td>
+        </tr>
+    </table>
+
+    <br>
+    <a href="/">Logout</a>
+</div>
+
+</body>
+</html>
