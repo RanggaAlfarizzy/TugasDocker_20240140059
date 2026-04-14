@@ -22,22 +22,22 @@ Berikut tampilan container setelah menjalankan:
 ## 🌐 3. Web Aplikasi (Dijalankan dari Docker)
 
 ### 🔐 Halaman Login
-![Login](link-gambar-login-sendiri)
+![Login](Login.png)
 
 ---
 
 ### 🏠 Halaman Home
-![Home](link-gambar-home-sendiri)
+![Home](home.png)
 
 ---
 
 ### 📝 Halaman Form
-![Form](link-gambar-form-sendiri)
+![Form](Form.png)
 
 ---
 
 ### 📊 Home Setelah Input Data
-![Home After Input](link-gambar-home-input-sendiri)
+![Home After Input](homeSetelahInput.png)
 
 ---
 
